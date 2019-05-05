@@ -1,2 +1,2 @@
 This is a greeting message.
-H
+Hello everyone!
